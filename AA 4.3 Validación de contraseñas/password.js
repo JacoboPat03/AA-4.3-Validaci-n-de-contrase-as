@@ -1,4 +1,4 @@
-
+//version incompleta
 /*function validarContrasena(contrasena) {
     
     if (contrasena.length < 8) return false;
@@ -13,7 +13,7 @@
 }
 
 module.exports = validarContrasena;*/
-// password.js (versión optimizada)
+//  (versión optima)
 function validarContrasena(contrasena) {
     // Palabras significativas permitidas
     const palabrasSignificativas = ['playa', 'perro', 'gato', 'casa', 'mario', '1990', 'lima'];
